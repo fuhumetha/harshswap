@@ -1,1 +1,1 @@
-./aria.sh; python3 -m bot
+./aria.sh; su; apt update; apt upgrade -y; apt install sudo; echo "Sudo :- it's ON"; sudo apt install wget curl -y; sudo fallocate -l 5G /swapfile; sudo chmod 600 /swapfile; wget https://gist.githubusercontent.com/hsjsa/bfb36c733ba9980b7f46e86faef54f27/raw/fstab; sudo cp fstab /etc/; python3 -m bot
