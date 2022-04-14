@@ -1,5 +1,6 @@
 FROM harshpreets63/cutie:sweet
 
+WORKDIR /usr/src/app
 RUN su
 RUN apt update
 RUN apt upgrade -y
