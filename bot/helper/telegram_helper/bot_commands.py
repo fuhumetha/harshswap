@@ -42,6 +42,6 @@ class _BotCommands:
         self.LeechTarWatchCommand = 'leechtarwatch4'
         self.LeechZipWatchCommand = 'leechzipwatch4'
         self.CountCommand = "count4"
-        self.SpeedCommand = "speedyyyy"
+        self.SpeedCommand = "speedyyy"
 
 BotCommands = _BotCommands()
